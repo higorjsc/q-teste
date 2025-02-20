@@ -1,0 +1,1 @@
+System.register([],(function(t,e){"use strict";return{execute:function(){var t=document.createElement("style");t.textContent="ion-title[data-v-5a46a747]{font-weight:700}\n",document.head.appendChild(t)}}}));
